@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there <a href="#"><img width="1rem" height="1rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> I'm Ioram
+  Hi there <a href="#"><img width="14px" height="14px" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> I'm Ioram
 </h1>
 
 <p align="center">
