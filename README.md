@@ -1,11 +1,5 @@
-<h1 align="center">
-  Hi there 👋 I'm Ioram
-</h1>
-
-<p align="center">
- A 🏄 software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Georgia</a>
-</p>
-
+### Hi there 👋 I'm Ioram
+#### A 🏄 software developer from [Georgia]("https://goo.gl/maps/GH6t23DYbqM9vDBh8")
 
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
