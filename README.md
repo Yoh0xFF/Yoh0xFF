@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Yoh0xFF@gmail.com"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ioram-gordadze-a42b1492/">
@@ -17,11 +17,11 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://www.toptal.com/resume/ioram-gordadze">
-    <img src="https://img.shields.io/badge/Toptal-0077B5?style=for-the-badge&logo=toptal&logoColor=white&link=https://www.toptal.com/resume/ioram-gordadze"/>
+    <img src="https://img.shields.io/badge/Toptal-0077B5?style=for-the-badge&logo=toptal&logoColor=white"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://stackoverflow.com/users/1407204/yoh0xff?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/1407204/yoh0xff?tab=profile"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
 
