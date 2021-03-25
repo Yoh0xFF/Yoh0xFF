@@ -6,8 +6,6 @@
  A 🏄 software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Georgia</a>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
