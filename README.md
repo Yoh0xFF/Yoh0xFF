@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Ioram
-#### A 🏄 software developer from [Georgia]("https://goo.gl/maps/GH6t23DYbqM9vDBh8")
+
+A 🏄 software developer from [Georgia]("https://goo.gl/maps/GH6t23DYbqM9vDBh8")
+
+![Linkedin Logo](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)
 
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
