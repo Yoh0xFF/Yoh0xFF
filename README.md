@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/></a> I'm Ioram
+</h1>
+
+<p align="center">
+  Hi, I'm <b>Ioram Gordadze</b>, a freelance software developer from Georgia.
+</p>
+
 
 <!--
 **Yoh0xFF/Yoh0xFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
