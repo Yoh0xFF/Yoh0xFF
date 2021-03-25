@@ -8,19 +8,17 @@
 
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ioram-gordadze-a42b1492/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
 
-  <a href="https://www.toptal.com/resume/ioram-gordadze">
-    <img src="https://img.shields.io/badge/Toptal-0077B5?style=flat-square&logo=toptal&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Toptal-0077B5?style=for-the-badge&logo=toptal&logoColor=white&link=https://www.toptal.com/resume/ioram-gordadze"/>
 
   <a href="https://stackoverflow.com/users/1407204/yoh0xff?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   </a>
 </p>
 
