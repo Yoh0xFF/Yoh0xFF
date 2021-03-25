@@ -1,4 +1,4 @@
-<h1>
+<h1 style="text-align=center;">
   Hi there 👋 I'm Ioram
 </h1>
 
