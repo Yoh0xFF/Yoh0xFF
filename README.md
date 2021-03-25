@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Yoh0xFF@gmail.com"/>
   </a>&nbsp;&nbsp;
 
-  <a href="hhttps://www.linkedin.com/in/ioram-gordadze-a42b1492/">
+  <a href="https://www.linkedin.com/in/ioram-gordadze-a42b1492/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ioram-gordadze-a42b1492/"/>
   </a>&nbsp;&nbsp;
 
