@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:Yoh0xFF@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=logo-for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/ioram-gordadze-a42b1492/">
