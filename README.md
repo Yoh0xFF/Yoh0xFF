@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Hi, I'm <b>Ioram Gordadze</b>, a freelance software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Georgia</a>.
+  A freelance software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Georgia</a>.
 </p>
 
 
