@@ -2,7 +2,7 @@
   Hi there 👋 I'm Ioram
 </h1>
 
-<p>
+<p align="center">
  A 🏄 software developer from <a href="https://goo.gl/maps/GH6t23DYbqM9vDBh8">Georgia</a>
 </p>
 
